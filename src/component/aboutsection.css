@@ -1,0 +1,23 @@
+#about {
+    background-color: #f7f7f7;
+    padding: 40px;
+  }
+  
+  #about h2 {
+    font-size: 2.4em;
+    margin-bottom: 20px;
+  }
+  
+  #about p {
+    font-size: 1.2em;
+    margin-bottom: 40px;
+  }
+  
+  #about ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+  }
+  
+  
+    

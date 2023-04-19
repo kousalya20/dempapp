@@ -1,0 +1,34 @@
+#menu {
+    background-color: #f7f7f7;
+    padding: 40px;
+  }
+  
+  #menu h2 {
+    font-size: 2.4em;
+    margin-bottom: 20px;
+  }
+  
+  #menu p {
+    font-size: 1.2em;
+    margin-bottom: 40px;
+  }
+  
+  #menu ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+  }
+  
+  #menu li {
+    margin-bottom: 10px;
+    font-size: 1.1em;
+    font-weight: bold;
+    color: #333;
+    border-bottom: 1px solid #ccc;
+    padding: 10px 0;
+  }
+  
+  #menu li:last-child {
+    border-bottom: none;
+  }
+  
